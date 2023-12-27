@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "io.sentry.flutter.sentry_flutter-merged_res-14:/layout/custom_dialog.xml",
+        "source": "io.sentry.flutter.sentry_flutter-core-1.6.0-6:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "io.sentry.flutter.sentry_flutter-merged_res-14:/layout/notification_action_tombstone.xml",
+        "source": "io.sentry.flutter.sentry_flutter-core-1.6.0-6:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "io.sentry.flutter.sentry_flutter-merged_res-14:/layout/notification_template_icon_group.xml",
+        "source": "io.sentry.flutter.sentry_flutter-core-1.6.0-6:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "io.sentry.flutter.sentry_flutter-merged_res-14:/layout/notification_action.xml",
+        "source": "io.sentry.flutter.sentry_flutter-core-1.6.0-6:/layout/notification_action.xml"
+    },
+    {
+        "merged": "io.sentry.flutter.sentry_flutter-merged_res-14:/layout/notification_template_part_chronometer.xml",
+        "source": "io.sentry.flutter.sentry_flutter-core-1.6.0-6:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "io.sentry.flutter.sentry_flutter-merged_res-14:/layout/notification_template_part_time.xml",
+        "source": "io.sentry.flutter.sentry_flutter-core-1.6.0-6:/layout/notification_template_part_time.xml"
+    }
+]

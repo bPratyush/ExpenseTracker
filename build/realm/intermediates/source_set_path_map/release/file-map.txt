@@ -1,0 +1,12 @@
+io.realm-jetified-annotation-experimental-1.1.0-0 /Users/bpratyush/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+io.realm-jetified-window-1.0.0-beta04-1 /Users/bpratyush/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+io.realm-jetified-window-java-1.0.0-beta04-2 /Users/bpratyush/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+io.realm-core-1.6.0-3 /Users/bpratyush/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+io.realm-main-4 /Users/bpratyush/.pub-cache/hosted/pub.dev/realm-1.6.1/android/src/main/res
+io.realm-release-5 /Users/bpratyush/.pub-cache/hosted/pub.dev/realm-1.6.1/android/src/release/res
+io.realm-pngs-6 /Users/bpratyush/Downloads/expense_tracker/build/realm/generated/res/pngs/release
+io.realm-resValues-7 /Users/bpratyush/Downloads/expense_tracker/build/realm/generated/res/resValues/release
+io.realm-rs-8 /Users/bpratyush/Downloads/expense_tracker/build/realm/generated/res/rs/release
+io.realm-mergeReleaseResources-9 /Users/bpratyush/Downloads/expense_tracker/build/realm/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.realm-mergeReleaseResources-10 /Users/bpratyush/Downloads/expense_tracker/build/realm/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.realm-merged_res-11 /Users/bpratyush/Downloads/expense_tracker/build/realm/intermediates/merged_res/release

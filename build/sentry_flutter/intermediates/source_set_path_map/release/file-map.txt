@@ -1,0 +1,16 @@
+io.sentry.flutter.sentry_flutter-jetified-annotation-experimental-1.1.0-0 /Users/bpratyush/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+io.sentry.flutter.sentry_flutter-jetified-window-1.0.0-beta04-1 /Users/bpratyush/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+io.sentry.flutter.sentry_flutter-jetified-sentry-android-ndk-7.0.0-2 /Users/bpratyush/.gradle/caches/transforms-3/522c26d1c794e68b8ef15d551bb5a9b3/transformed/jetified-sentry-android-ndk-7.0.0/res
+io.sentry.flutter.sentry_flutter-jetified-sentry-android-7.0.0-3 /Users/bpratyush/.gradle/caches/transforms-3/7ea57ec61bf9a398321121807f3ecefd/transformed/jetified-sentry-android-7.0.0/res
+io.sentry.flutter.sentry_flutter-jetified-sentry-android-core-7.0.0-4 /Users/bpratyush/.gradle/caches/transforms-3/96fd3ee3e65e7d6ce871d51b1c8c6ecb/transformed/jetified-sentry-android-core-7.0.0/res
+io.sentry.flutter.sentry_flutter-jetified-window-java-1.0.0-beta04-5 /Users/bpratyush/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+io.sentry.flutter.sentry_flutter-core-1.6.0-6 /Users/bpratyush/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+io.sentry.flutter.sentry_flutter-main-7 /Users/bpratyush/.pub-cache/hosted/pub.dev/sentry_flutter-7.14.0/android/src/main/res
+io.sentry.flutter.sentry_flutter-release-8 /Users/bpratyush/.pub-cache/hosted/pub.dev/sentry_flutter-7.14.0/android/src/release/res
+io.sentry.flutter.sentry_flutter-packaged_res-9 /Users/bpratyush/Downloads/expense_tracker/build/package_info_plus/intermediates/packaged_res/release
+io.sentry.flutter.sentry_flutter-pngs-10 /Users/bpratyush/Downloads/expense_tracker/build/sentry_flutter/generated/res/pngs/release
+io.sentry.flutter.sentry_flutter-resValues-11 /Users/bpratyush/Downloads/expense_tracker/build/sentry_flutter/generated/res/resValues/release
+io.sentry.flutter.sentry_flutter-rs-12 /Users/bpratyush/Downloads/expense_tracker/build/sentry_flutter/generated/res/rs/release
+io.sentry.flutter.sentry_flutter-mergeReleaseResources-13 /Users/bpratyush/Downloads/expense_tracker/build/sentry_flutter/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.sentry.flutter.sentry_flutter-mergeReleaseResources-14 /Users/bpratyush/Downloads/expense_tracker/build/sentry_flutter/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.sentry.flutter.sentry_flutter-merged_res-15 /Users/bpratyush/Downloads/expense_tracker/build/sentry_flutter/intermediates/merged_res/release
